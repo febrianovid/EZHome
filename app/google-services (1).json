@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "85946848628",
+    "firebase_url": "https://ezhome-66b56-default-rtdb.firebaseio.com",
+    "project_id": "ezhome-66b56",
+    "storage_bucket": "ezhome-66b56.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:85946848628:android:e6487cf100516b22848821",
+        "android_client_info": {
+          "package_name": "com.example.ezhome"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "85946848628-uslr9o4brs9g2cqbl1ctd42guc7k772j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ezhome",
+            "certificate_hash": "d7c4936cc414f62b3a0539eda2f0e7c919a2d0d5"
+          }
+        },
+        {
+          "client_id": "85946848628-8qq2kfvieov42ft5omt55kquoi17m9f7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCF1lvhxKQmrUuTn94obMmYMc5Yj8Svd6Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "85946848628-8qq2kfvieov42ft5omt55kquoi17m9f7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
